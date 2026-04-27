@@ -1,5 +1,9 @@
 # OpenClaw Pool on EC2 Firecracker
 
+> ⚠️ **This repository is no longer maintained.** The project has moved to
+> [aws-samples/sample-multi-tenant-openclaw-on-firecracker](https://github.com/aws-samples/sample-multi-tenant-openclaw-on-firecracker).
+> Please use the new repository for the latest code and updates.
+
 ![Version](https://img.shields.io/badge/version-0.9.6-blue)
 
 **[English](README.md)** | **[中文](docs/README-CN.md)** | **[Changelog](docs/CHANGELOG.md)**
